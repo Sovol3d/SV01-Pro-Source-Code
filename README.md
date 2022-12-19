@@ -9,6 +9,13 @@ Filament Sensor, Dual Z axis and Belt Tensioner are all equiped on the SV01 PRO.
 
 Welcome to post your ideas in sovol forum or sovol user group on Facebook.
 
+# Join Sovol Community
+
+- Sovol Facebook page:  https://www.facebook.com/sovol3d/
+- Sovol Youtube Channel:   https://www.youtube.com/c/Sovol/videos
+- Sovol Offcial User Group:  https://www.facebook.com/groups/sovol3d
+- Sovol Forum website:  https://forum.sovol3d.com/
+
 # Related tutorials 
 
 - User Manual.  [Click here](https://drive.google.com/file/u/1/d/1rjabuYPToPorOXMvQ7_JpCENCcbCXrbL/view?usp=sharing).
@@ -19,7 +26,7 @@ Welcome to post your ideas in sovol forum or sovol user group on Facebook.
 
 on Sovol Official Website:  https://sovol3d.com/products/sv01-pro-direct-drive-3d-printer
 
-# Source code
+# Notice
 
 This is the official source code for Sovol SV01 Pro mainboard, the touch screen source code is not included. 
 
@@ -31,12 +38,5 @@ info@sovol3d.com
 # Code Editor
 
 PlatformIO IDE for VSCode
-
-# Join Sovol Community
-
-- Sovol Facebook page:  https://www.facebook.com/sovol3d/
-- Sovol Youtube Channel:   https://www.youtube.com/c/Sovol/videos
-- Sovol Offcial User Group:  https://www.facebook.com/groups/sovol3d
-- Sovol Forum website:  https://forum.sovol3d.com/
 
 
