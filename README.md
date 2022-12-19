@@ -7,6 +7,8 @@ including soft TPU, PETG, ABS, PLA and Wood.
 CR Touch Auto Leveling, Intuitive 4.3 Inch Touch Screen, 32 Bit Silent Mainboard, Flexible Plate,
 Filament Sensor, Dual Z axis and Belt Tensioner are all equiped on the SV01 PRO.
 
+Welcome to post your ideas in sovol forum or sovol user group on Facebook.
+
 # Related tutorials 
 
 - User Manual.  [Click here](https://drive.google.com/file/u/1/d/1rjabuYPToPorOXMvQ7_JpCENCcbCXrbL/view?usp=sharing).
